@@ -8,3 +8,13 @@ C:\Users\inf2067_usr\Documents\18118087\WindowsForms18118087\obj\Debug\WindowsFo
 C:\Users\inf2067_usr\Documents\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.csproj.CoreCompileInputs.cache
 C:\Users\inf2067_usr\Documents\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.exe
 C:\Users\inf2067_usr\Documents\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.pdb
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\bin\Debug\WindowsForms18118087.exe.config
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\bin\Debug\WindowsForms18118087.exe
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\bin\Debug\WindowsForms18118087.pdb
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.csproj.AssemblyReference.cache
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.Form1.resources
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.Properties.Resources.resources
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.csproj.GenerateResource.cache
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.csproj.CoreCompileInputs.cache
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.exe
+C:\Users\inf2067_usr\Downloads\18118087\WindowsForms18118087\obj\Debug\WindowsForms18118087.pdb
